@@ -1,6 +1,7 @@
 # Karabo Makau - Portfolio Website
-Live DEMO: https://portfoliowebsite-eight-chi.vercel.app/
 A modern, responsive personal portfolio website showcasing skills, projects, certifications, and experience with an integrated AI chatbot assistant.
+
+Live DEMO: https://portfoliowebsite-eight-chi.vercel.app/
 
 ## 🚀 Features
 

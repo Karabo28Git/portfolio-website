@@ -33,7 +33,7 @@ portfolio-website/
 │   │   ├── cv-preview.jpg # CV preview image
 │   │   └── certificates/  # Certificate images (cert-1.jpg to cert-12.jpg)
 │   └── documents/
-│       └── KARABO_MAKAU_Resume-1-1.pdf  # CV PDF
+│       └── Karabo Makau CV (Latest).pdf  # CV PDF
 └── README.md              # This file
 ```
 
@@ -117,7 +117,7 @@ The integrated chatbot uses advanced pattern matching and natural language proce
    - Add your profile picture: `assets/images/profile.jpg`
    - Add certificate images: `assets/images/certificates/cert-1.jpg` to `cert-12.jpg`
    - Add CV preview: `assets/images/cv-preview.jpg`
-   - Add CV PDF: `assets/documents/KARABO_MAKAU_Resume-1-1.pdf`
+   - Add CV PDF: `assets/documents/Karabo Makau CV (Latest).pdf`
 
 3. **Configure contact form**
    - Sign up at [Formspree.io](https://formspree.io/)

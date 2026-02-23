@@ -499,6 +499,27 @@ footer p {
     animation: bounce 1s infinite;
 }
 
+/* Experience Card */
+.experience-card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    margin-bottom: 10px;
+}
+
+.experience-card h3 {
+    color: #4CAF50;
+    margin-bottom: 8px;
+    font-size: 18px;
+}
+
+.experience-card p {
+    color: #555;
+    font-size: 15px;
+    margin: 6px 0;
+}
+
 @keyframes bounce {
     0%, 100% { transform: translateY(0); }
     50% { transform: translateY(-5px); }
